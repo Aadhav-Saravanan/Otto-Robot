@@ -6,14 +6,14 @@ int servoAngleMax = 180;  // Max angle for the servo motor
 int servoAngleHalf = 90;  //Half angle for the sevo motor
 int servoMin = 0;         //Min angle for the servo motor
 
-void setup() {
+void setup(){
   BL.attach(8);
   BR.attach(9);
   TR.attach(10);
   TL.attach(11);
 }
 
-void loop() {
+void loop(){
   BL.write(servoAngleMax);
   BR.write(servoAngleMax);
   TR.write(servoAngleMax);
