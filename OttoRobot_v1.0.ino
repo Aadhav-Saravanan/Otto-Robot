@@ -6,10 +6,10 @@ int servoMax = 180;// Max angle for the servo motor
 int servoMin = 0;//Min angle for the servo motor
 
 void setup() {
-  myServo.attach(8);//Pin for leg
-  myServo2.attach(9);//Pin for leg
-  myServo3.attach(10);//Pin for leg
-  myServo4.attach(11);//Pin for leg
+  myServo.attach(8);
+  myServo2.attach(9);
+  myServo3.attach(10);
+  myServo4.attach(11);
 }
 
 void loop() {
