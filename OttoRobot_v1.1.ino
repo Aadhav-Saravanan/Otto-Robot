@@ -1,6 +1,6 @@
 #include <Servo.h>  //Servo library
 
-Servo BL, BR, TR, TL;     //BR=Bottom Left, BR=Bottom Right, Tr=Top Right and TL=Top Left
+Servo BL, BR, TR, TL;     //BL=Bottom Left, BR=Bottom Right, Tr=Top Right and TL=Top Left
 int servoDelay = 1000;    // delay time for the servo
 int servoAngleMax = 180;  // Max angle for the servo motor
 int servoAngleHalf = 90;  //Half angle for the sevo motor
