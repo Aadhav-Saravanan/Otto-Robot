@@ -2,7 +2,8 @@
 
 Servo BL, BR, TR, TL;     //BL=Bottom Left, BR=Bottom Right, Tr=Top Right and TL=Top Left
 float servoDelay = 1000;    // delay time for the servo
-float servoAngleMax = 500;  // Max angle for the servo motorfloat servoAngleHalf = 90;  //Half angle for the sevo motor
+float servoAngleMax = 500;  // Max angle for the servo motor
+float servoAngleHalf = 90;  //Half angle for the sevo motor
 float servoMin = 0;         //Min angle for the servo motor
 
 void setup() {
