@@ -1,2 +1,4 @@
-# Otto-Robot
-![image](https://user-images.githubusercontent.com/119620882/208238475-86d26da9-9fee-49b6-9dfa-f19069148043.png)
+#Otto Robot
+robot shcematics
+![image](https://user-images.githubusercontent.com/119620882/208238497-3a0b7862-42a0-4140-8375-53fb563e70d4.png)
+
