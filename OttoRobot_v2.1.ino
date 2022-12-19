@@ -5,7 +5,7 @@ Servo Servo2;
 Servo Servo3;
 Servo Servo4;
 
-int pos = 0-10;
+int pos = 0;
 
 void setup() {
   Servo1.attach(8);
