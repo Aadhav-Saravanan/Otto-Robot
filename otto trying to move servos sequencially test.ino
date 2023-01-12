@@ -13,10 +13,10 @@ void setup() {
   Servo3.attach(10);
   Servo4.attach(11);
 
-  Servo1.write(pos);
-  Servo2.write(pos);
-  Servo3.write(pos);
-  Servo4.write(pos);
+  //Servo1.write(pos);
+  //Servo2.write(pos);
+  //Servo3.write(pos);
+  //Servo4.write(pos);
 }
 
 void loop() {
