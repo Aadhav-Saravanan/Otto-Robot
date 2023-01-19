@@ -5,7 +5,7 @@ Schematics
 
 
 Servo pin allocation:
-  Lower right: pin 8
-  Lower left: pin 9
+  Lower right: pin 9
+  Lower left: pin 8
   Upper right: pin 10
   Upper left: pin 11
