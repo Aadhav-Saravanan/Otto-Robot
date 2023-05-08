@@ -1,3 +1,5 @@
+This project is with Arduino boards in which we try to develop the Otto tito robot with C++ with our ideas.
+
 #Otto Robot
 Schematics
 
